@@ -1,15 +1,16 @@
-id: opecha:P000432
+id: P000432
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20730
   title: ས་སྐྱའི་མཁས་གྲུབ་ཆེན་པོ་ཁག་གསུམ་གྱི་རྣམ་ཐར།
-  volume:
+  author: ''
+  volumes:
     d7909f4536174a67ac61ebc0445a060b:
       image_group_id: I8LS20737
       title: Volume 1 of sa skya'i mkhas grub chen po khag gsum gyi rnam thar/
       volume_number: 1
       total_pages: 174
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ས་སྐྱའི་མཁས་གྲུབ་ཆེན་པོ་ཁག་གསུམ་གྱི་རྣམ་ཐར།
   author: ''
