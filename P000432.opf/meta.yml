@@ -1,5 +1,7 @@
 id: P000432
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W8LS20730
   title: ས་སྐྱའི་མཁས་གྲུབ་ཆེན་པོ་ཁག་གསུམ་གྱི་རྣམ་ཐར།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 174
       base_file: v001.txt
-ebook_metadata:
-  title: ས་སྐྱའི་མཁས་གྲུབ་ཆེན་པོ་ཁག་གསུམ་གྱི་རྣམ་ཐར།
-  author: ''
-  sku: P000432
-  cover: cover.jpg
-  layers:
-  - pagination
